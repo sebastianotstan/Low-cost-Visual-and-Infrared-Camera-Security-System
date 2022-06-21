@@ -1,0 +1,11 @@
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/Infrared%20(100).jpg
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/Infrared%20(98).jpg
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/Infrared%20(136).jpg
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/Infrared%20(140).jpg
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/Infrared%20(110).jpg
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/infra%20(11).jpg
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/Infrared%20(70).jpg
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/Infrared%20(133).jpg
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/Infrared%20(138).jpg
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/infra%20(6).jpg
+/Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/Infrared%20(142).jpg

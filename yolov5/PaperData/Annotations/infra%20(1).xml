@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>infra%20(1).jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/infra%20(1).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>720</width>
+        <height>960</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Near</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>13.506493506493506</xmin>
+        <ymin>292.987012987013</ymin>
+        <xmax>462.33766233766227</xmax>
+        <ymax>960</ymax>
+    </bndbox>
+</object>
+</annotation>

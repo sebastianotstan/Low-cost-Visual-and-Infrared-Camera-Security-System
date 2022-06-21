@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Infrared%20(152).jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/Infrared%20(152).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Far</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>359.4978354978355</xmin>
+        <ymin>271.03030303030306</ymin>
+        <xmax>384.7099567099567</xmax>
+        <ymax>353.8701298701299</ymax>
+    </bndbox>
+</object><object>
+    <name>Far</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>249.1948051948052</xmin>
+        <ymin>281.83549783549785</ymin>
+        <xmax>276.20779220779224</xmax>
+        <ymax>364.6753246753247</ymax>
+    </bndbox>
+</object><object>
+    <name>Far</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>228.93506493506496</xmin>
+        <ymin>244.91774891774892</ymin>
+        <xmax>266.7532467532468</xmax>
+        <ymax>296.6926406926407</ymax>
+    </bndbox>
+</object>
+</annotation>

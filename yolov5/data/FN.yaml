@@ -1,0 +1,8 @@
+train: /Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/
+val: /Users/sebbyma/Desktop/Imperial_Fourth_Year/FYP/YOLOv5/yolov5/PaperData/images/
+
+# number of classes:
+nc: 2
+
+# classes names:
+names: ['Far', 'Near']

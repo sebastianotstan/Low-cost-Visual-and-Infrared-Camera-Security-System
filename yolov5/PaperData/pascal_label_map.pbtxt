@@ -1,0 +1,8 @@
+item {
+ id: 1
+ name: 'Near'
+}
+item {
+ id: 2
+ name: 'Far'
+}
